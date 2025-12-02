@@ -1,4 +1,4 @@
-# MBA em Engenharia de Software com IA - Fundamentos de IA Generativa
+# MBA em Engenharia de Software com IA
 
 <div>
     <img alt="Criado por Alcir Junior [Caju]" src="https://img.shields.io/badge/criado%20por-Alcir Junior [Caju]-%23f08700">
@@ -9,15 +9,14 @@
 
 ## Descrição
 
-Construa uma base sólida em LLMs, embeddings, arquitetura de modelos e diversas estratégias, conceitos por trás de IA. Domine o ecossistema por trás da nova geração de aplicações.
-
----
-
-## Repositório Pai
-https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia
+O MBA em Engenharia de Software com IA combina fundamentos sólidos com o uso estratégico de inteligência artificial. Prepare-se para projetar, desenvolver e operar as aplicações na era da IA com produtividade até 5x maior, dominando as boas práticas e inovações no mercado.
 
 ---
 
 ## Visualizar o projeto na IDE:
 
 Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, esse recurso do GitHub é bem bacana
+
+---
+
+- [Fundamentos de IA Generativa](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa)
