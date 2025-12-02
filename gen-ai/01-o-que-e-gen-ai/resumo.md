@@ -1,3 +1,5 @@
+<img alt="Tela 01" src="infografico.png" style="margin: 15px 0" />
+
 # IA Generativa: Como a Tecnologia Aprende a Criar Coisas Novas
 
 A inteligência artificial (IA) generativa é mais do que um avanço tecnológico; é uma revolução na forma como as máquinas nos ajudam. Se antes elas eram mestras em analisar o que já existe, hoje elas estão aprendendo a imaginar o que ainda não foi criado. Essa nova fronteira da tecnologia "inaugura um novo paradigma: o de criar a partir do aprendizado".
