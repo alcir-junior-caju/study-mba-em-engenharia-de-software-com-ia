@@ -20,9 +20,9 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 ---
 
 ## Módulos
-- [Fundamentos de IA Generativa](./fundamentos-de-ia-generativa/)
+- [Fundamentos de IA Generativa](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa)
 
 ---
 
 ## Apoio
-- [Introdução ao LangChain](./introducao-langchain/)
+- [Introdução ao LangChain](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-introducao-langchain)
