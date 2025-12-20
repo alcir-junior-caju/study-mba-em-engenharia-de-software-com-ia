@@ -20,9 +20,9 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 ---
 
 ## Módulos
-- [Fundamentos de IA Generativa](./fundamentos-de-ia-generativa)
+- [Fundamentos de IA Generativa](./fundamentos-de-ia-generativa/)
 
 ---
 
 ## Apoio
-- [Introdução ao LangChain](./introducao-langchain)
+- [Introdução ao LangChain](./introducao-langchain/)
