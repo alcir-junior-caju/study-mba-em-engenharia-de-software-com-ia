@@ -4,3 +4,6 @@
 [submodule "introducao-langchain"]
 	path = introducao-langchain
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-introducao-langchain.git
+[submodule "langchain-langgraph"]
+	path = langchain-langgraph
+	url = git@github.com:alcir-junior-caju/study-react-agent-langgraph-course.git
