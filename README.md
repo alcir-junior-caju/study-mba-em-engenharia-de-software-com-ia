@@ -26,4 +26,4 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 ## Apoio
 - [Introdução ao LangChain](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-introducao-langchain)
-- [LangChain e LangGraph](./langchain-langgraph/README.md)
+- [LangChain e LangGraph](https://github.com/alcir-junior-caju/study-react-agent-langgraph-course)
