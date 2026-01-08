@@ -7,3 +7,6 @@
 [submodule "langchain-langgraph"]
 	path = langchain-langgraph
 	url = git@github.com:alcir-junior-caju/study-react-agent-langgraph-course.git
+[submodule "ludolens"]
+	path = ludolens
+	url = https://github.com/alcir-junior-caju/study-ai-ludolens-application
