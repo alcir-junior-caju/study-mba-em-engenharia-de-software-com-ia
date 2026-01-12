@@ -21,6 +21,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 ## Módulos
 - [Fundamentos de IA Generativa](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa)
+- [DesafioIngestão e Busca Semântica com LangChain e Postgres](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-ingestao-e-busca-semantica)
 
 ---
 
