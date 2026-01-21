@@ -13,3 +13,6 @@
 [submodule "desafio-ingestao-e-busca-semantica"]
 	path = desafio-ingestao-e-busca-semantica
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-ingestao-e-busca-semantica.git
+[submodule "prompt-engineering"]
+	path = prompt-engineering
+	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-prompt-engineering.git
