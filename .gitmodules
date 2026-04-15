@@ -16,3 +16,6 @@
 [submodule "prompt-engineering"]
 	path = prompt-engineering
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-prompt-engineering.git
+[submodule "design-docs-ia"]
+	path = design-docs-ia
+	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-design-docs.git
