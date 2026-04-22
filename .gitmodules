@@ -19,3 +19,6 @@
 [submodule "design-docs-ia"]
 	path = design-docs-ia
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-design-docs.git
+[submodule "desafio-pull-evaluation-prompt"]
+	path = desafio-pull-evaluation-prompt
+	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-pull-evaluation-prompt.git
