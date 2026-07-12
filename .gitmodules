@@ -22,3 +22,6 @@
 [submodule "desafio-pull-evaluation-prompt"]
 	path = desafio-pull-evaluation-prompt
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-pull-evaluation-prompt.git
+[submodule "desenvolvimento-modo-agente"]
+	path = desenvolvimento-modo-agente
+	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desenvolvimento-modo-agente.git
