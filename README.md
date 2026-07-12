@@ -23,6 +23,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Fundamentos de IA Generativa](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa)
 - [Engenharia de Prompt](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-prompt-engineering)
 - [Design Docs com IA](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-design-docs)
+- [Desenvolvimento modo Agente](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desenvolvimento-modo-agente)
 
 ---
 
