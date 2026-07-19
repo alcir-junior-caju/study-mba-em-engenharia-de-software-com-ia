@@ -25,3 +25,6 @@
 [submodule "desenvolvimento-modo-agente"]
 	path = desenvolvimento-modo-agente
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desenvolvimento-modo-agente.git
+[submodule "refactor-projects-skill"]
+	path = refactor-projects-skill
+	url = git@github.com:alcir-junior-caju/study-mba-ia-refactor-projects-skill.git

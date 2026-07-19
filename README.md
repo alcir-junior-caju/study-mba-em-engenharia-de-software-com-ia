@@ -29,7 +29,8 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 ## Desafios
 - [Desafio Ingestão e Busca Semântica com LangChain e Postgres](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-ingestao-e-busca-semantica)
-- [Desafio Pull Evaluation Prompt ](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-pull-evaluation-prompt)
+- [Desafio Pull Evaluation Prompt](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-pull-evaluation-prompt)
+- [Desafio Refatorar projetos](https://github.com/alcir-junior-caju/study-mba-ia-refactor-projects-skill)
 
 ---
 
