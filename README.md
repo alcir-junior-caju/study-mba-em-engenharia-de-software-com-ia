@@ -20,14 +20,17 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 ---
 
 ## Módulos
+
 - [Fundamentos de IA Generativa](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa)
 - [Engenharia de Prompt](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-prompt-engineering)
 - [Design Docs com IA](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-design-docs)
 - [Desenvolvimento modo Agente](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desenvolvimento-modo-agente)
+- [Arquitetura na era da IA](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-arquitetura-na-era-da-ia)
 
 ---
 
 ## Desafios
+
 - [Desafio Ingestão e Busca Semântica com LangChain e Postgres](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-ingestao-e-busca-semantica)
 - [Desafio Pull Evaluation Prompt](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-pull-evaluation-prompt)
 - [Desafio Refatorar projetos](https://github.com/alcir-junior-caju/study-mba-ia-refactor-projects-skill)
@@ -35,6 +38,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 ---
 
 ## Apoio
+
 - [Introdução ao LangChain](https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-introducao-langchain)
 - [LangChain e LangGraph](https://github.com/alcir-junior-caju/study-react-agent-langgraph-course)
 - [LudoLens - Aplicação feita com AI](https://github.com/alcir-junior-caju/study-ai-ludolens-application)
