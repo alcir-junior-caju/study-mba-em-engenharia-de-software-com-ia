@@ -31,3 +31,6 @@
 [submodule "arquitetura-na-era-da-ia"]
 	path = arquitetura-na-era-da-ia
 	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-arquitetura-na-era-da-ia.git
+[submodule "desafio-design-docs"]
+	path = desafio-design-docs
+	url = git@github.com:alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-desafio-design-docs.git
